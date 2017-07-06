@@ -447,7 +447,7 @@
                     <PyCharmTask>
                       <option name="index" value="7" />
                       <option name="name" value="Data classes" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="0" />
                       <option name="taskTexts">
                         <map>
@@ -470,9 +470,9 @@
                                           <option name="offset" value="0" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="12" />
+                                      <option name="length" value="51" />
                                       <option name="offset" value="0" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -489,7 +489,7 @@
                                                 <option name="placeholderText" value="class Person" />
                                                 <option name="possibleAnswer" value="data class Person(val name: String, val age: Int)" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -499,7 +499,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
