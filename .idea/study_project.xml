@@ -686,7 +686,7 @@
                     <PyCharmTask>
                       <option name="index" value="10" />
                       <option name="name" value="Extension functions" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="0" />
                       <option name="taskTexts">
                         <map>
@@ -709,9 +709,9 @@
                                           <option name="offset" value="30" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="37" />
                                       <option name="offset" value="30" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -728,7 +728,7 @@
                                                 <option name="placeholderText" value="TODO()" />
                                                 <option name="possibleAnswer" value="RationalNumber(this, 1)" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -744,9 +744,9 @@
                                           <option name="offset" value="78" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="78" />
-                                      <option name="selected" value="false" />
+                                      <option name="length" value="62" />
+                                      <option name="offset" value="109" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -763,7 +763,7 @@
                                                 <option name="placeholderText" value="TODO()" />
                                                 <option name="possibleAnswer" value="RationalNumber(first, second)" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -773,7 +773,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
