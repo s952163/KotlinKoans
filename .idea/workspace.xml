@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef290dad-d1d3-4250-8cfa-a1a34995f9d5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/study_project.xml" afterPath="$PROJECT_DIR$/.idea/study_project.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task9/src/Task.kt" afterPath="$PROJECT_DIR$/lesson1/task9/src/Task.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -515,7 +513,14 @@
       <option name="project" value="LOCAL" />
       <updated>1499384867215</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Task 9 Done">
+      <created>1499494420465</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1499494420465</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -562,7 +567,8 @@
     <MESSAGE value="Task 5 Done" />
     <MESSAGE value="Task 6 Done" />
     <MESSAGE value="Task 7 Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 7 Done" />
+    <MESSAGE value="Task 9 Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 9 Done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
