@@ -925,7 +925,7 @@
                     <PyCharmTask>
                       <option name="index" value="13" />
                       <option name="name" value="Extensions on collections" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="0" />
                       <option name="taskTexts">
                         <map>
@@ -948,9 +948,9 @@
                                           <option name="offset" value="58" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="52" />
-                                      <option name="offset" value="58" />
-                                      <option name="selected" value="false" />
+                                      <option name="length" value="77" />
+                                      <option name="offset" value="-13" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -967,7 +967,7 @@
                                                 <option name="placeholderText" value="//TODO(&quot;return the list sorted in descending order&quot;)" />
                                                 <option name="possibleAnswer" value=".sortedDescending()" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -977,7 +977,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
